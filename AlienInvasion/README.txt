@@ -1,0 +1,1 @@
+alien_invasion.py是主文件，装了python打开即可运行，还需要安装pygame库
